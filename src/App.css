@@ -1,0 +1,11 @@
+
+* {
+    box-sizing: border-box;
+}
+.container {
+    width: auto;
+    height: 50vh;
+    margin: 100px auto;
+    background-color: #f7c9c9a1;
+    border-radius: 25px;
+}
